@@ -1,0 +1,7 @@
+***** Inferences in SWRL *****
+			  
+Dinosaur(?d) -> PreHistoric(?d)
+
+Dinosaur(?d), Place(?pl1), origin(?d, ?pl1), Place(?pl2), partOf(?pl1, ?pl2) -> origin(?d, ?pl2)
+
+Place(?pl1), Place(?pl2), Place(?pl3), partOf(?pl1,?pl2), partOf(?pl2,?pl3) -> partOf(?pl1,?pl3)

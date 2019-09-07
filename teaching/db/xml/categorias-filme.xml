@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category key="movies">
+  <label>Filmes</label>
+  <category key="action">
+    <label>Ação</label>
+    <category key="action">
+	  <label>Muita ação?</label>
+    </category>
+  </category>
+  <category key="drama">
+    <label>Drama</label>
+    <category key="thriller">
+      <label>Drama com suspense</label>
+      <category key="action">
+        <label>Drama com suspense e ação</label>
+      </category>
+    </category>
+    <category key="drama">
+      <label>Muito drama?</label>
+    </category>
+  </category>
+</category>
