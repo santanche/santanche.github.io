@@ -1,0 +1,4 @@
+[submodule "classic"]
+	path = classic
+	url = https://github.com/santanche/homepage.git
+	branch = home-2022
