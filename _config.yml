@@ -7,8 +7,7 @@ title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "André Santanchè"
 description              : "My homepage."
-url                      : https://www.ic.unicamp.br
-baseurl                  : /~santanche
+url                      : https://santanche.github.io
 
 # Social Sharing
 twitter:

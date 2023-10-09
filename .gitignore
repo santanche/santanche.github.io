@@ -6,3 +6,4 @@ node_modules
 .sass-cache
 Gemfile.lock
 /vendor
+/_site
