@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<publications>
+
+<title xml:lang="en-US">Seminars</title>
+<title xml:lang="pt-BR">Seminários</title>
+
+<categories key="year">
+  <title xml:lang="en-US">by Chronological Order</title>
+  <title xml:lang="pt-BR">por Ordem Cronológica</title>
+  <category key="2008"></category>
+  <category key="2007"></category>
+  <category key="2003"></category>
+  <category key="2001"></category>
+  <category key="2000"></category>
+</categories>
+
+<categories key="subject">
+  <title xml:lang="en-US">by Subject</title>
+  <title xml:lang="pt-BR">por Assunto</title>
+  <category key="Education &amp; Informatics">
+    <label xml:lang="pt-BR">Educação &amp; Informática</label>
+  </category>
+  <category key="Semantic Web">
+    <label xml:lang="pt-BR">Web Semântica</label>
+  </category>
+</categories>
+
+<publication>
+  <title>Ferramentas e Ambientes para Objetos de Aprendizagem</title>
+  <author>André Santanchè</author>
+  <author>Andrea Lago</author>
+  <author>Patrícia Dourado Lima de Almeida</author>
+  <author>Pedro Ferreira Filho</author>
+  <event>
+    <a href="http://www.sbie.org.br">XVIX Simpósio Brasileiro de Informática na Educação - SBIE 2008</a>
+  </event>
+  <location>Fortaleza</location>
+  <begin>12</begin>
+  <end>14</end>
+  <month>November</month>
+  <year>2008</year>
+  <online href="http://www.archive.org/details/santanche2007-2008_minicourse_learning-object_sbie2007-2008">(site)</online>
+  <online href="http://www.archive.org/download/santanche2007-2008_minicourse_learning-object_sbie2007-2008/santanche2008_minicourse_learning-object_sbie2008.pdf">(pdf)</online>
+  <key>Education &amp; Informatics</key>
+  <key>Creative Commons</key>
+</publication>
+
+<publication>
+  <title>Objetos Digitais Complexos na Educação e os Objetos de Aprendizagem</title>
+  <author>André Santanchè</author>
+  <author>Andrea Lago</author>
+  <author>Patrícia Dourado Lima de Almeida</author>
+  <author>Pedro Ferreira Filho</author>
+  <event>
+    <a href="http://www.lsi.usp.br/sbie2007/">XVIII Simpósio Brasileiro de Informática na Educação - SBIE 2007</a>
+  </event>
+  <location>São Paulo</location>
+  <begin>28</begin>
+  <end>30</end>
+  <month>November</month>
+  <year>2007</year>
+  <online href="http://www.archive.org/details/santanche2007-2008_minicourse_learning-object_sbie2007-2008">(site)</online>
+  <online href="http://www.archive.org/download/santanche2007-2008_minicourse_learning-object_sbie2007-2008/santanche2007_minicourse_learning-object_sbie2007.pdf">(pdf)</online>
+  <key>Education &amp; Informatics</key>
+  <key>Creative Commons</key>
+</publication>
+
+<publication>
+  <title>Aplicações educacionais na Web - o papel de RDF e Metadados</title>
+  <author>André Santanchè</author>
+  <event>
+    <a href="http://www.nce.ufrj.br/sbie2003/">XIV Simpósio Brasileiro de Informática na Educação - SBIE 2003</a>
+  </event>
+  <location>Rio de Janeiro</location>
+  <begin>12</begin>
+  <end>14</end>
+  <month>November</month>
+  <year>2003</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/publications/SBIE2003-RDF-LOM.pdf">(pdf)</online>
+  <key>Semantic Web</key>
+  <key>Creative Commons</key>
+</publication>
+
+<publication>
+  <title>O Computador como Ambiente para Exploração da Matemática e Física</title>
+  <author>André Santanchè</author>
+  <event>
+    <a href="http://www.inf.ufes.br/~sbie2001/">XII Simpósio Brasileiro de Informática na Educação - SBIE 2001</a>
+  </event>
+  <location>Vitória</location>
+  <begin>21</begin>
+  <end>23</end>
+  <month>November</month>
+  <year>2001</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/seminars/SBIE2001-Matematica-Fisica.pdf">(pdf)</online>
+  <key>Education &amp; Informatics</key>
+  <key>Creative Commons</key>
+</publication>
+
+<publication>
+  <title>Múltiplas Perspectivas de Objetos no Contexto Educacional</title>
+  <author>André Santanchè</author>
+  <author>Cesar Augusto Camillo Teixeira</author>
+  <event>SBIE 2000 - Simpósio Brasileiro de Informática na Educação</event>
+  <location>Maceió</location>
+  <begin>8</begin>
+  <end>10</end>
+  <month>November</month>
+  <year>2000</year>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/seminars/SBIE2000-Objetos-Educacao.pdf">(pdf)</online>
+  <online href="http://www.lis.ic.unicamp.br/~santanch/seminars/SBIE2000-Objetos-Educacao-slides.pdf">(slides/pdf)</online>
+  <key>Education &amp; Informatics</key>
+  <key>Creative Commons</key>
+</publication>
+
+</publications>

@@ -1,0 +1,27 @@
+.panel_publications {
+    height: auto;
+    overflow: auto;
+    margin-left: 5px;
+    padding-top: 5px;
+    padding-left: 15px;
+    padding-right: 10px;
+    background-color: #ccccff;
+}
+
+.publication-category {
+    font-weight: bold;
+    font-size: 14pt;
+    color: rgb(0, 0, 0);
+}
+
+.publication-title {
+    font-weight: bold;
+    font-size: 12pt;
+    margin-top: 0px;
+	margin-bottom: 0px;
+}
+
+.publication-text {
+    margin-top: 0px;
+	margin-bottom: 0px;
+}

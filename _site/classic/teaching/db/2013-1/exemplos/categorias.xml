@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<category key="bd">
+  <label>banco dados</label>
+  <category key="oo">
+    <label>orientado ao objeto</label>
+    <category></category>
+  </category>
+  <category key="rel">
+    <label>relacional</label>
+    <category key="hib">
+      <label>hibrido</label>
+      <category key="oo">
+        <label>orientado ao objeto</label>
+      </category>
+      <category key="xml">
+        <label>XML</label>
+      </category>
+    </category>
+  </category>
+</category>

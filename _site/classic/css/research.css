@@ -1,0 +1,41 @@
+@CHARSET "ISO-8859-1";
+
+.topic {
+	width: auto;
+	position: relative;
+	margin-top: 15px;
+	margin-left: 10px;
+	margin-right: 10px;
+	font-size: 14pt;
+}
+
+.topic h1 {
+    font-size: 22pt;
+    font-weight: bold;
+}
+
+.topic h2 {
+	font-size: 18pt;
+	font-weight: bold;
+}
+
+.topic h3 {
+	font-size: 14pt;
+	font-weight: bold;
+	margin-left: 25px;
+	margin-bottom: 10px;
+}
+
+.topic p {
+	margin-left: 25px;
+	margin-top: 2px;
+	margin-bottom: 2px;
+}
+
+.publication_reference {
+	margin-left: 50px;
+	margin-right: 50px;
+	margin-bottom: 15px;
+	display: list-item;
+	list-style-type: square;
+}

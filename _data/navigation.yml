@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Projects"
+    url: https://harena-lab.github.io/
+  - title: "Curriculum"
+    url: /curriculum
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Archive"
+    url: /classic/

@@ -1,5 +1,8 @@
-# Directories
-lab
-memorial
-museu
-social
+node_modules
+*.gem
+.bundle
+.jekyll-cache
+.jekyll-metadata
+.sass-cache
+Gemfile.lock
+/vendor
