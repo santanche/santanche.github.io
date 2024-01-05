@@ -5,6 +5,12 @@ permalink: /teaching/
 
 These pages refer to courses taught at Unicamp. They are predominantly in Portuguese.
 
+* [Ciência e Visualização de Dados em Saúde 2024](datasci/2024-1/)
+
+# Previous Years
+
+## 2023
+
 * [Bancos de Dados 2023](db/2023-2/)
 
 ## Archive (Arquivo)
