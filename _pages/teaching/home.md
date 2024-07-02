@@ -5,9 +5,13 @@ permalink: /teaching/
 
 These pages refer to courses taught at Unicamp. They are predominantly in Portuguese.
 
-* [Ciência e Visualização de Dados em Saúde 2024](datasci/2024-1/)
+* [Ciência de Dados Cidadã 2024.2](citizen/2024-2/)
 
-# Previous Years
+# Previous Semesters/Years
+
+## 2024.1
+
+* [Ciência e Visualização de Dados em Saúde 2024](datasci/2024-1/)
 
 ## 2023
 
