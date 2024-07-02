@@ -5,6 +5,8 @@ permalink: /teaching/
 
 These pages refer to courses taught at Unicamp. They are predominantly in Portuguese.
 
+## 2024.2
+
 * [Ciência de Dados Cidadã 2024.2](citizen/2024-2/)
 
 # Previous Semesters/Years
