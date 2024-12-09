@@ -11,9 +11,7 @@ excerpt: '## University of Campinas - UNICAMP
 
 * Associate professor at the Institute of Computing (IC)
 
-* Coordinator of the Laboratory of Information Systems (LIS)
-
-* Director of the [Exploratory Science Museum](http://www.mc.unicamp.br)'
+* Coordinator of the Laboratory of Information Systems (LIS)'
 ---
 
 {% include feature_row id="intro" type="center" %}
