@@ -5,11 +5,16 @@ permalink: /teaching/
 
 These pages refer to courses taught at Unicamp. They are predominantly in Portuguese.
 
+## 2025.1
+
+* [Engenharia e Ciência de Dados Cidadã 2025.1](citizen/2025-1/)
+
+# Previous Semesters/Years
+
 ## 2024.2
 
 * [Ciência de Dados Cidadã 2024.2](citizen/2024-2/)
-
-# Previous Semesters/Years
+* Computação e Sociedade 2024.2
 
 ## 2024.1
 
