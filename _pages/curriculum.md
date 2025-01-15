@@ -9,3 +9,6 @@ permalink: /curriculum/
 
 ## Lattes Curriculum
 <a href="http://lattes.cnpq.br/5121623021406209" target="_blank">CNPq - Brazil</a>
+
+## National and International Collaboration
+[See details here](/collaboration/)
