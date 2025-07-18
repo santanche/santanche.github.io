@@ -15,7 +15,7 @@ O segundo eixo analisa como as linguagens e respectivos paradigmas adotam abstra
 
 ## Avaliação
 
-A disciplina será pautada em trabalhos executados em equipe, envolvendo duas linhas:
+A disciplina será pautada em pequenos projetos práticos desenvolvidos em sala trabalhos executados em equipe, envolvendo duas linhas:
 * A primeira será mais voltada ao primeiro eixo, explorando aspectos que envolvem os paradigmas, usando o Scheme.
 * A segunda será voltada ao segundo eixo e linguagens de mercado e relevantes dentro dos paradigmas.
 
@@ -58,6 +58,7 @@ Visão geral dos fundamentos na forma de revisão. A orientação a objetos sob 
 Diferentes abordagens dentro do paradigma:
 * Tipagem forte e fraca.
 * Relações entre objetos e classes.
+* Programação Rápida e Prototipação.
 * Exemplos em: Java, Python e JavaScript.
 
 ### Funcional
@@ -111,8 +112,6 @@ Principal linguagem neste paradigma: **JavaScript com React**
 * Programação assíncrona e não bloqueante.
 * Loop de eventos.
 * Promessas e callbacks.
-
-
 
 ## Referências
 
