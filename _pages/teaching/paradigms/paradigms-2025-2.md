@@ -39,6 +39,7 @@ Os tópicos a seguir não estão organizados em ordem cronológica, já que o pr
 * Primitivas de primeira ordem: funções, classes, objetos e regras.
 * Estado, escopo e closure.
 * Lazy versus Eager (Strict) evaluation.
+* Linguagens minimalistas (RISC-like) e maximalistas (CISC-like).
 
 ## Segundo Eixo - Paradigmas e Linguagens
 
@@ -71,6 +72,7 @@ Principais linguagens neste paradigma: **Scheme** e **Clojure**
 * Imutabilidade dos dados.
 * Recursividade versus loop.
 * Linguagem Scheme:
+  * Abordagem minimalista do Scheme versus maximalista do JavaScript.
   * Construindo uma linguagem (meta-programação).
 * Funções versus Classes em JavaScript.
 
