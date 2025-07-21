@@ -16,7 +16,7 @@ O segundo eixo analisa como as linguagens e respectivos paradigmas adotam abstra
 ## Avaliação
 
 A disciplina será pautada em pequenos projetos práticos desenvolvidos em sala trabalhos executados em equipe, envolvendo duas linhas:
-* A primeira será mais voltada ao primeiro eixo, explorando aspectos que envolvem os paradigmas, usando o Scheme.
+* A primeira será mais voltada ao primeiro eixo, explorando aspectos que envolvem os paradigmas, usando o **Scheme**.
 * A segunda será voltada ao segundo eixo e linguagens de mercado e relevantes dentro dos paradigmas.
 
 ## Programa do Curso
@@ -61,11 +61,13 @@ Diferentes abordagens dentro do paradigma:
 * Programação Rápida e Prototipação.
 * Exemplos em: Java, Python e JavaScript.
 
-### Funcional
+### Declarativas
+
+#### Funcional
 
 Fundamentos de linguagens funcionais e contraste com procedurais: "o que" resolver versus "como" resolver.
 
-Principais linguagens neste paradigma: **Scheme** e **Clojure**
+Principal linguagem neste paradigma: **Clojure**
 
 * Funções como primitivas de primeira ordem.
   * Relações com o cálculo lambda.
@@ -77,7 +79,7 @@ Principais linguagens neste paradigma: **Scheme** e **Clojure**
   * Construindo uma linguagem (meta-programação).
 * Funções versus Classes em JavaScript.
 
-### Declarativa e Lógica
+#### Lógica
 
 Fundamentos de linguagens declarativas e contraste com procedurais e funcionais: espectro "o que" resolver versus "como" resolver.
 
@@ -115,4 +117,10 @@ Principal linguagem neste paradigma: **JavaScript com React**
 
 ## Referências
 
-Abelson, H., Sussman, G. J., & Sussman, J. (1996). Structure and Interpretation of Computer Programs (2nd ed.). MIT Press. https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html
+Abelson, H., Sussman, G. J., & Sussman, J. (1996). Structure and Interpretation of Computer Programs (2nd ed.). MIT Press. [online](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/index.html)
+
+Dybvig, R. K. (2009). The Scheme Programming Language (4th ed.). MIT Press. [online](https://www.scheme.com/tspl4/)
+
+Kiczales, G., des Rivieres, J., & Bobrow, D. G. (1991). The Art of the Metaobject Protocol. In The Art of the Metaobject Protocol. The MIT Press. [online](https://doi.org/10.7551/MITPRESS/1405.001.0001)
+
+Meyer, Bertrand (2000). Object-Oriented Software Construction, 2a edição. Prentice Hall.
