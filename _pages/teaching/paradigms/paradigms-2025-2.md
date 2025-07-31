@@ -4,6 +4,9 @@ classes: wide
 permalink: /teaching/paradigms/2025-2/
 ---
 
+## Disciplina
+
+[Plano de Desenvolvimento da Disciplina](unicamp-grad-mc346-2025-2-v01.pdf)
 
 ## Eixos de Estudo de Linguagens e Paradigmas
 
