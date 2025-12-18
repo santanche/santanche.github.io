@@ -5,12 +5,17 @@ permalink: /teaching/
 
 These pages refer to courses taught at Unicamp. They are predominantly in Portuguese.
 
+## 2026.1
+
+* [Paradigmas de Programação 2026.1](paradigms/2026-1/)
+* [Ciência e Visualização de Dados em Saúde 2025.2](datasci/2025-2/)
+
+# Previous Semesters/Years
+
 ## 2025.2
 
 * [Paradigmas de Programação 2025.2](paradigms/2025-2/)
 * [Ciência e Visualização de Dados em Saúde 2025.2](datasci/2025-2/)
-
-# Previous Semesters/Years
 
 ## 2025.1
 
