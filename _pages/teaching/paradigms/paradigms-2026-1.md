@@ -4,6 +4,12 @@ classes: wide
 permalink: /teaching/paradigms/2026-1/
 ---
 
+## Visão Geral da Disciplina
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gj7iOCpqnh4?si=sblM8KzebHXnNLxC" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+## Playlist da Disciplina 2025
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?si=2XO7GhzhbRZcDtEF&amp;list=PL3JRjVnXiTBbNkhPxXZ9pFdOl8aJqVQ9u" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## Disciplina
 
 [Plano de Desenvolvimento da Disciplina]
