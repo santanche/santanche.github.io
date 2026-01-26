@@ -22,11 +22,11 @@ O primeiro analisa dimensões de abstração e estrutura das linguagens, envolve
 
 O segundo eixo analisa como as linguagens e respectivos paradigmas adotam abstrações e organizam estruturas. Para cada paradigma, serão escolhidas linguagens representativas a partir de indicadores como o [TIOBE](https://www.tiobe.com/tiobe-index/) e estudos como [Top Programming Languages 2024](https://spectrum.ieee.org/top-programming-languages-2024).
 
+Linguagens estudadas: C++, Java, Python, Clojure, Prolog, JavaScript, React, ELM e Erlang.
+
 ## Avaliação
 
-A disciplina será pautada em pequenos projetos práticos desenvolvidos em sala trabalhos executados em equipe, envolvendo duas linhas:
-* A primeira será mais voltada ao primeiro eixo, explorando aspectos que envolvem os paradigmas, usando o **Scheme**.
-* A segunda será voltada ao segundo eixo e linguagens de mercado e relevantes dentro dos paradigmas.
+A disciplina será pautada em pequenos laboratórios práticos e projeto executado em equipe ao longo do curso. Os laboratórios/projeto serão parcialmente desenvolvidos em sala, parcialmente extra-classe.
 
 ## Programa do Curso
 
@@ -41,6 +41,7 @@ Os tópicos a seguir não estão organizados em ordem cronológica, já que o pr
 
 * Abstrações matemáticas da computação:
   * Noções de linguagens formais e a máquina de Turing.
+    * Autômatos finitos, expressões regulares e gramáticas.
     * Linguagens Turing completas.
   * Cálculo lambda.
   * Tipo abstrato de dados.
@@ -76,7 +77,7 @@ Diferentes abordagens dentro do paradigma:
 
 Fundamentos de linguagens funcionais e contraste com procedurais: "o que" resolver versus "como" resolver.
 
-Principal linguagem neste paradigma: **Clojure**
+Principais linguagens neste paradigma: **Scheme** e **Clojure**
 
 * Funções como primitivas de primeira ordem.
   * Relações com o cálculo lambda.
@@ -92,7 +93,7 @@ Principal linguagem neste paradigma: **Clojure**
 
 Fundamentos de linguagens declarativas e contraste com procedurais e funcionais: espectro "o que" resolver versus "como" resolver.
 
-Principal linguagem neste paradigma: **Prolog**
+Principais linguagens neste paradigma: **Prolog** e **RDF**
 
 * Diferentes abordagens declarativas:
   * Queries e regras.
@@ -106,23 +107,24 @@ Principal linguagem neste paradigma: **Prolog**
 
 Introdução ao princípio de concorrência e paralelismo e seu impacto no clássico fluxo de controle.
 
-Principal linguagem neste paradigma: **Clojure**
+Principais linguagens neste paradigma: **Erlang** e **Clojure**
 
 * Modelos:
   * Abordagem de threads/memória compartilhada.
     * Clojure e dados persistentes e imutáveis.
   * Abordagem de passagem de mensagens/atores.
-    * Passagem de mensagens em Clojure.
+    * Passagem de mensagens em Erlang e Clojure.
 
 ### Reativo e Orientado a Eventos
 
 Programação orientada a eventos e fluxos reativos.
 
-Principal linguagem neste paradigma: **JavaScript com React**
+Principal linguagem neste paradigma: **ELM** e **JavaScript com React**
 
 * Programação assíncrona e não bloqueante.
 * Loop de eventos.
 * Promessas e callbacks.
+* Passagem de mensagens em ELM
 
 ## Referências
 
